@@ -44,6 +44,10 @@ Pro projekt z Power BI jsem si vybrala volně dostupný dataset [Nobel Prize Win
 [Nobel Prize categories by continents](#Nobel Prize categories by continents)
 [Laureates and organizations with >1 prizes](#Laureates and organizations with >1 prizes)
 
+![Home]()
+![NP 1]()
+![NP 2]()
+
 
 
 ### Number of prizes awarded
