@@ -34,6 +34,18 @@ Pro projekt z Power BI jsem si vybrala volně dostupný dataset [Nobel Prize Win
 
 ## Popis dat
 
+[Number of prizes awarded](#Number of prizes awarded)
+[Gender gap](#Gender gap)
+[Age of laureates](#Age of laureates)
+[Nobel Prize timeline](#Nobel Prize timeline)
+[Shared Nobel Prizes](#Shared Nobel Prizes)
+[Nobel Prize categories by continents](#Nobel Prize categories by continents)
+[All Nobel Prize Winners](#All Nobel Prize Winners)
+[Nobel Prize categories by continents](#Nobel Prize categories by continents)
+[Laureates and organizations with >1 prizes](#Laureates and organizations with >1 prizes)
+
+
+
 ### Number of prizes awarded
 
 Tento vizuál ukazuje počet udělených cen (nikoliv oceněných laureátů) v jednotlivých kategoriích. 
