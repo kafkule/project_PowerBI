@@ -30,6 +30,8 @@ Vizualizace zvoleného datasetu podle zadaných kritérií:
 
 Pro projekt z Power BI jsem si vybrala volně dostupný dataset [Nobel Prize Winners: 1901 to 2023](https://www.kaggle.com/datasets/sazidthe1/nobel-prize-data), který byl v době zpracování (11/2023) vizualizace aktualizovaný a vztažený k výsledkům Nobelovy ceny z roku 2023.
 
+Autorem původní ilustrace Alfreda Nobela, použité na první straně prezentace, je [Niklas Elmehed](https://niklaselmehed.com/kopia-av-the-nobel-prize).
+
 
 
 ## Popis dat
