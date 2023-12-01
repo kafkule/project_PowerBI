@@ -44,6 +44,7 @@ Pro projekt z Power BI jsem si vybrala volně dostupný dataset [Nobel Prize Win
 - [Laureates and organizations with >1 prizes](https://github.com/kafkule/project_PowerBI/tree/main#laureates-and-organizations-with-1-prizes)
 
 
+
 ![Home](https://github.com/kafkule/project_PowerBI/blob/main/images/NP1.png)
 ![NP 1](https://github.com/kafkule/project_PowerBI/blob/main/images/NP2.png)
 ![NP 2](https://github.com/kafkule/project_PowerBI/blob/main/images/NP3.png)
