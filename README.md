@@ -44,10 +44,9 @@ Pro projekt z Power BI jsem si vybrala volně dostupný dataset [Nobel Prize Win
 [Nobel Prize categories by continents](#Nobel Prize categories by continents)
 [Laureates and organizations with >1 prizes](#Laureates and organizations with >1 prizes)
 
-![Home]()
-![NP 1]()
-![NP 2]()
-
+![Home](https://github.com/kafkule/project_PowerBI/blob/main/images/NP1.png)
+![NP 1](https://github.com/kafkule/project_PowerBI/blob/main/images/NP2.png)
+![NP 2](https://github.com/kafkule/project_PowerBI/blob/main/images/NP3.png)
 
 
 ### Number of prizes awarded
@@ -116,7 +115,7 @@ Speciální typ grafu zv. chord, který zobrazuje vztahy mezi daty v matici, uka
 
 V prezentaci najdeme i tabulku se všemi oceněnými, jejich původem, zemí, kde působili, i zemí, kde případně zemřeli. Podle těchto údajů se dá také ve vizuálu filtrovat.
 
-Ve vizuálně byla použita hierarchie.
+Ve vizuálu byla použita hierarchie.
 
 
 ### Nobel Prize categories by continents
@@ -125,6 +124,5 @@ Mapa ukazuje pohled na svět a rozdělení laureátů podle země (kontinentu) j
 
 
 ### Laureates and organizations with >1 prizes
-  
 
 Tabulka zobrazuje laureáty a organizace, kteří v obdrželi více než jedno ocenění.
