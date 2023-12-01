@@ -34,15 +34,15 @@ Pro projekt z Power BI jsem si vybrala volně dostupný dataset [Nobel Prize Win
 
 ## Popis dat
 
-[Number of prizes awarded](#Number of prizes awarded)
-[Gender gap](#Gender gap)
-[Age of laureates](#Age of laureates)
-[Nobel Prize timeline](#Nobel Prize timeline)
-[Shared Nobel Prizes](#Shared Nobel Prizes)
-[Nobel Prize categories by continents](#Nobel Prize categories by continents)
-[All Nobel Prize Winners](#All Nobel Prize Winners)
-[Nobel Prize categories by continents](#Nobel Prize categories by continents)
-[Laureates and organizations with >1 prizes](#Laureates and organizations with >1 prizes)
+[Number of prizes awarded](https://github.com/kafkule/project_PowerBI/tree/main#number-of-prizes-awarded)
+[Gender gap](https://github.com/kafkule/project_PowerBI/tree/main#gender-gap)
+[Age of laureates](https://github.com/kafkule/project_PowerBI/tree/main#age-of-laureates)
+[Nobel Prize timeline](https://github.com/kafkule/project_PowerBI/tree/main#nobel-prize-timeline)
+[Shared Nobel Prizes](https://github.com/kafkule/project_PowerBI/tree/main#shared-nobel-prizes)
+[Nobel Prize categories by continents](https://github.com/kafkule/project_PowerBI/tree/main#nobel-prize-categories-by-continents)
+[All Nobel Prize Winners](https://github.com/kafkule/project_PowerBI/tree/main#all-nobel-prize-winners)
+[Laureates and organizations with >1 prizes](https://github.com/kafkule/project_PowerBI/tree/main#laureates-and-organizations-with-1-prizes)
+
 
 ![Home](https://github.com/kafkule/project_PowerBI/blob/main/images/NP1.png)
 ![NP 1](https://github.com/kafkule/project_PowerBI/blob/main/images/NP2.png)
